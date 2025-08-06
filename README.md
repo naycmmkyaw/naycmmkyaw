@@ -14,6 +14,7 @@
 
 ---
 
-### ⚡ Fun fact:<br>I once fixed a bug by just taking a nap and magically understanding it afterward. 10/10 recommend.
+### ⚡ Fun fact:
+<br>I once fixed a bug by just taking a nap and magically understanding it afterward. 10/10 recommend.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
